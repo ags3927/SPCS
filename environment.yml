@@ -1,0 +1,10 @@
+name: spcs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - anndata
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
